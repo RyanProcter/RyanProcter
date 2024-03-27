@@ -1,5 +1,5 @@
 # Hi there!
-## My name is **Ryan** and I am a software engineering student with CoGrammar
+## My name is *Ryan* and I am a software engineering student with CoGrammar
 
 I have three cats called:
 - Mushu
